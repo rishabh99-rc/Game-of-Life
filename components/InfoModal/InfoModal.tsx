@@ -262,33 +262,10 @@ const InfoModal = ({
       </p>
 
       <p className="mt-6">
-        Made with{" "}
+        
+        Check it out the code on{" "}
         <a
-          href="https://tailwindcss.com/"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Tailwind CSS
-        </a>
-        ,{" "}
-        <a
-          href="https://reactjs.org/"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          React
-        </a>{" "}
-        and 💞 by{" "}
-        <a
-          href="https://prateeksurana.me"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Prateek Surana
-        </a>
-        . Check it out the code on{" "}
-        <a
-          href="https://github.com/prateek3255/game-of-life"
+          href="https://github.com/rishabh99-rc/Game-of-Life"
           target="_blank"
           rel="noreferrer noopener"
         >
